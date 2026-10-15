@@ -8,11 +8,6 @@
       "index": 0,
       "name": "Channel 1",
       "qr": "channel-0.png"
-    },
-    {
-      "index": 1,
-      "name": "Channel 2",
-      "qr": "channel-1.png"
     }
   ]
 }
