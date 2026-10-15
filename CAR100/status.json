@@ -1,8 +1,8 @@
 {
   "room": "CAR100",
   "connectionState": "connected",
-  "updatedAt": "2026-10-15T15:33:38Z",
-  "version": "da65d59ec891",
+  "updatedAt": "2026-10-15T15:43:21Z",
+  "version": "cc55a12516fe",
   "channels": [
     {
       "index": 0,
