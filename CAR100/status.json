@@ -1,0 +1,18 @@
+{
+  "room": "CAR100",
+  "connectionState": "connected",
+  "updatedAt": "2026-10-15T13:25:35Z",
+  "version": "dca60f8e3c1d",
+  "channels": [
+    {
+      "index": 0,
+      "name": "Channel 1",
+      "qr": "channel-0.png"
+    },
+    {
+      "index": 1,
+      "name": "Channel 2",
+      "qr": "channel-1.png"
+    }
+  ]
+}
