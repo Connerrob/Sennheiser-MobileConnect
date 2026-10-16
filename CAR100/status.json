@@ -1,14 +1,14 @@
 {
   "room": "CAR100",
   "connectionState": "connected",
-  "updatedAt": "2026-10-16T10:23:25Z",
-  "version": "98f929a1650a",
+  "updatedAt": "2026-10-16T10:33:24Z",
+  "version": "f5ecb697dcfa",
   "channels": [
     {
       "index": 0,
       "name": "Channel 1",
       "qr": "channel-0.png",
-      "link": "sst.mc://lookup/dY9PC8IwDMW_iuQ8Rru6qb3uJHrw5EU8lDZoYabSVkHGvrsZ_kPQSyDJ772X9JAs6B7s0RBht_YpLx1oaGqlhJgtoAAbKMfQtYEBm32gNApkNWsYmKr52BnnIiZegBRlJcqaa8NaJHcOnvIWY2Il6GoYCqDgkNndOxa0qoT8EbXC2-j5ySrAmWw2IeaXxrsvQgtmyJyQp-3DfSJ5lDwdOmz_v5nCJVp8Oishhz1feh0vvgM"
+      "link": "sst.mc://lookup/dU-5CgIxEP0VmXpZcnisabcSLaxsxCIkgwbWiSRRENl_dxYvBG0G5s275gbZgbmBO1gi7FYhl4UHA8280ULPFVTgIpUUuzYywZUQKQ8CqWZTIWZj3Qyb9T5h5gNIUStRT3hOWYvkTzFQ2WDKrASj-r4Cih6Zu33HgtFKyB9RS7wOnp-sCrwtdh1TeWmC_2IYwRyyR2S0fbiPJEM50L7D9v-bOZ6Tw6ezFrLfcdPL0PgO"
     }
   ]
 }
