@@ -1,6 +1,6 @@
 {
   "room": "CAR100",
-  "connectionState": "connected",
+  "connectionState": "unreachable",
   "updatedAt": "2026-10-16T13:20:13Z",
   "version": "572f06cf1269",
   "channels": [
